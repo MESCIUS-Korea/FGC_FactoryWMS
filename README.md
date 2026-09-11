@@ -82,7 +82,7 @@ AI 도우미 명령 → resp(intent, item_name, supplier_name, lot_number, perio
 
 ## 실행 방법
 
-1. [Forguncy 빌더]([https://www.grapecity.com/forguncy](https://www.mescius.co.kr/forguncy/download)) 설치
+1. [Forguncy 빌더](https://www.mescius.co.kr/forguncy/download) 설치
 2. 프로젝트 파일을 빌더에서 열기
 3. 파일 > 옵션 > 응용 프로그램 설정에서 AI 모델(OpenAI 등) 연결 — API 키 직접 등록 필요
 4. 유효기간알림 페이지, AI 챗봇의 AI 도우미 명령에서 방금 등록한 모델 선택
