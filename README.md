@@ -1,6 +1,6 @@
 # 공장재고관리 AI (FactoryWMS AI)
 
-**Repository**: MESCIUS-Korea/FGC_factorywms (https://github.com/MESCIUS-Korea/FGC_FactoryWMS/raw/main/FactoryWMS.fgko)
+**Repository**: [MESCIUS-Korea/FGC_factorywms](https://github.com/MESCIUS-Korea/FGC_FactoryWMS/raw/main/FactoryWMS.fgko)
 
 기존 공장재고관리(FactoryWMS) 시스템에 AI 기능을 통합한 데모입니다. 입고·출고, 재고현황·LOT추적 같은 기본 재고관리 기능 위에, **AI 브리핑**과 **AI 챗봇** 기능을 추가했습니다.
 
