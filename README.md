@@ -1,6 +1,6 @@
 # 공장재고관리 시스템 (FactoryWMS)
 
-**Repository**: [MESCIUS-Korea/FGC_factorywms]([실제 저장소 이름으로 수정해주세요](https://github.com/MESCIUS-Korea/FGC_FactoryWMS/raw/main/FactoryWMS.fgko))
+**Repository**: [MESCIUS-Korea/FGC_factorywms](https://github.com/MESCIUS-Korea/FGC_FactoryWMS/raw/main/FactoryWMS.fgko)
 
 제조 공장의 입출고, 재고, LOT, 불량, 유효기간을 한 화면에서 관리하고, 자연어로 질문하면 답변을 받을 수 있는 공장재고관리 시스템입니다. Forguncy(노코드 플랫폼)로 제작되었습니다.
 
