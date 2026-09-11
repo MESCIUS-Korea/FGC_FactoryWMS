@@ -1,6 +1,6 @@
 # 공장재고관리 시스템 (FactoryWMS)
 
-**Repository**: MESCIUS-Korea/FGC_factorywms *(실제 저장소 이름으로 수정해주세요)*
+**Repository**: [MESCIUS-Korea/FGC_factorywms]([실제 저장소 이름으로 수정해주세요](https://github.com/MESCIUS-Korea/FGC_FactoryWMS/raw/main/FactoryWMS.fgko))
 
 제조 공장의 입출고, 재고, LOT, 불량, 유효기간을 한 화면에서 관리하고, 자연어로 질문하면 답변을 받을 수 있는 공장재고관리 시스템입니다. Forguncy(노코드 플랫폼)로 제작되었습니다.
 
@@ -82,12 +82,9 @@ AI 도우미 명령 → resp(intent, item_name, supplier_name, lot_number, perio
 
 ## 실행 방법
 
-1. [Forguncy 디자이너](https://www.grapecity.com/forguncy) 설치
-2. 프로젝트 파일을 디자이너에서 열기
+1. [Forguncy 빌더]([https://www.grapecity.com/forguncy](https://www.mescius.co.kr/forguncy/download)) 설치
+2. 프로젝트 파일을 빌더에서 열기
 3. 파일 > 옵션 > 응용 프로그램 설정에서 AI 모델(OpenAI 등) 연결 — API 키 직접 등록 필요
 4. 유효기간알림 페이지, AI 챗봇의 AI 도우미 명령에서 방금 등록한 모델 선택
 5. 미리보기 또는 게시로 실행
 
-## 라이선스
-
-MESCIUS-Korea 내부 데모/프로토타입 목적의 예제입니다. 실제 배포 전 별도 라이선스 정책을 정해주세요.
